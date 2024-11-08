@@ -1,8 +1,13 @@
 •Hi, I’m KillaaaKaran.
+
 •I’m studying Further Maths, Maths, Physics, and Chemistry, not so much in coding but its nice to know and learn, and also make my uni applications look interesting with this as a reference
+
 •I’m currently learning how to use Python like I am the most amateur programmer in the world since I never studied Comp Sci in skl or got interested init.
+
 •I’m looking to collaborate on idrk. I just wanted someplace to dump a few of my coded projects like my electronnumberfinder. I will make it all open source so everyone can have fun with it.
+
 •How to reach me, comment on github if they even do that.
+
 •Fun fact: ... Idrk imma just make a list of some interesting things about me:
 - Played badminton for 3 years won a few school competitions. My favourite player is Lee Chong Wei
 - Can play the harmonica to a decent standard
@@ -17,8 +22,11 @@
 yh thats about it.
 
 Why am I doing this?
+
 Well I have friends in Comp Sci that convinced me to learn a coding language, so Imma stick to python since I can't be bothered to learn anything else.
 I post my projects on Github so I can show friends easily and also to use it as a reference in applications to stuff.
 In conclusion, This basically sums it up nicely:
 
-"It's more like a hobby for me. So obviously, I don't need to do it if I don't want." - Kimi Raikkonen
+"It's more like a hobby for me. So obviously, I don't need to do it if I don't want." - Kimi Raikkonen 🏎️
+
+:)
