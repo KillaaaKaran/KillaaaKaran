@@ -4,7 +4,7 @@
 
 •I’m currently learning how to use Python like I am the most amateur programmer in the world since I never studied Comp Sci in skl or got interested init.
 
-•I’m looking to collaborate on idrk. I just wanted someplace to dump a few of my coded projects like my electronnumberfinder. I will make it all open source so everyone can have fun with it.
+•I’m looking to collaborate on idrk. I just wanted someplace to dump a few of my coded projects. I will make it all open source so everyone can have fun with it.
 
 •How to reach me, comment on github if they even do that.
 
