@@ -19,6 +19,7 @@
 - Bayern Munich Fan, favourite player: Emanuel Neuer.
 - Fan of F1, favourite driver: Fernando Alonso and Lewis Hamilton.
 - Was a Goalkeeper for a month. That was boring tbh
+- Top 92 in the original Piano Tiles Pro 25" on the iOS leaderboards
 - I know 3 irl languages but only fluently speaks 2.
 yh thats about it.
 
