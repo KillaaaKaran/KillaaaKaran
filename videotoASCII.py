@@ -5,7 +5,13 @@ import time
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 
-print("Hello World, this is my videotoASCII_converter. Please select a video file preferably with mp4, avi, mov, mkv. Thank you for using this software for my Extended Project Qualification. By Karan Dahyea.")
+#I want to thamk my friends irl that helped me with this art and comp sci project by giving advice and that. This was a very ambitious project for me considering my lack of comp sci knowledege, amd I couldnt have done it without them.
+#Shoutout to my bro Dev.         Also ChatGPT helped with all of the complicated stuff :)
+
+#This works the best in Windows Command Prompt, however there arent alot of custom characters in it/
+#vscode shows it awkwardly and doesnt run as fast but shows all custom characters. :)
+
+print("Hello World, this is my videotoASCII_converter. Please select a video file preferably with mp4, avi, mov, mkv. Thank you for using this software for my Extended Project Qualification. By Karan.")
 
 # Enhanced ASCII characters ordered from less intensity to more intensity
 ASCII_CHARACTERS = [
@@ -84,7 +90,7 @@ def animate_ascii_frames(video_path, reverse=False):
     finally:
         clip.close()
 
-    print("Animation finished. Please restart the code again <3. Made by Karan Dahyea")
+    print("Animation finished. Please restart the code again <3. Made by Karan")
 
 def select_video_file():
     Tk().withdraw()  # Hide the root window
