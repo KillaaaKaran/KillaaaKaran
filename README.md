@@ -12,6 +12,7 @@
 - Played badminton for 3 years won a few school competitions. My favourite player is Lee Chong Wei
 - Can play the harmonica to a decent standard
 - I draw and sketch in my free time, I also design models and liveries on Gran Turismo
+- I make Desmos Graping Calulator Art
 - I really like Gran Turismo and sim racing, also Valorant
 - I play chess sometimes... I would like to learn to get better but i barely have enough free time
 - I played basketball for 3 months
