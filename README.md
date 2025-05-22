@@ -1,4 +1,4 @@
-•Hi, I’m Karan. (Just so you know all of this might be outdated by a long time but still relates somewhat correctly)
+•Hi, I’m Karan Dahyea. (Just so you know all of this might be outdated by a long time but still relates somewhat correctly)
 
 •I’m studying A Level Further Maths, Maths, Physics, and Chemistry, I don't have that much interest in coding but its nice to know and learn, and also make my uni personal statement look interesting with this as a reference.
 
